@@ -1,5 +1,7 @@
 # vue3_test
 
+> 测试Vue3的部分新API
+
 ## Project setup
 ```
 npm install
